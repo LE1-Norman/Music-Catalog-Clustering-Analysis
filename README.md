@@ -15,6 +15,9 @@ After identifying these clusters, we evaluated the performance of several models
 Results:
 
 Модель | Silhouette Score | Calinski-Harabasz Score | Davies-Bouldin Score |
+
 K-means| 0.394            | 135542.5                |   0.919              |
+
 DBSCAN | -0.127           | 1005.711                |   1.071              |
+
 Hierarchical | 0.482      | 123610.785              |   0.792              |
